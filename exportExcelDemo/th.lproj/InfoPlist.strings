@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>CFBundleIdentifier</key>
+<string>co.cc.lespro</string>
+<key>CFBundleDisplayName</key>
+<string>LesPark</string>
+<key>CFBundleName</key>
+<string>LesPark</string>
+<key>NSLocationWhenInUseUsageDescription</key>
+<string>Your location will be used to find people around you and recommend personalized content</string>
+<key>NSLocationAlwaysUsageDescription</key>
+<string>Your location will be used to find people around you and recommend personalized content</string>
+<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+<string>Your location will be used to find people around you and recommend personalized content</string>
+<key>NSContactsUsageDescription</key>
+<string>Allowing access to your address book helps you and others find friends and helps us provide a better service</string>
+<key>NSMicrophoneUsageDescription</key>
+<string>If you don't allow it, you won't be able to take videos and sent voice messages on LesPark</string>
+<key>NSCalendarsUsageDescription</key>
+<string>This will let you to add special days to the calender</string>
+<key>NSCameraUsageDescription</key>
+<string>This will let you take photos and record video</string>
+<key>NSPhotoLibraryAddUsageDescription</key>
+<string>This allows you save photos to your camera rool</string>
+<key>NSUserTrackingUsageDescription</key>
+<string>After permission, we will provide you with better personalized services, and we will not use it for other purposes without consent</string>
+<key>NSPhotoLibraryUsageDescription</key>
+<string>This lets you share from your camera roll, and enables other features for photos and videos</string>
+<key>NSBluetoothPeripheralUsageDescription</key>
+<string>This allows you use LesPark to turn on/off the Bluetooth</string>
+<key>NSContactsUsageDescription</key>
+<string>This helps you and others find friends and more. Your contacts wiil be synced and securely stored on LesPark servers</string>
+<key>UILaunchStoryboardName</key>
+<string>LaunchScreen</string>
+</dict>
+</plist>
